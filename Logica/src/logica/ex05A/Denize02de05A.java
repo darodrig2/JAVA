@@ -3,8 +3,7 @@ package logica.ex05A;
 import br.senai.sp.info132.console.Programa;
 
 public class Denize02de05A extends Programa {
-	
-	@Override
+		@Override
 	public void inicio() {
 		double total =0;
 		int quantidade = 0;

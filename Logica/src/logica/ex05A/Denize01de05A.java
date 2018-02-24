@@ -10,7 +10,7 @@ public class Denize01de05A extends Programa {
 	double total = 0;
 	int quantidade = 0;
 	int Preço = leInteiro("Informe o Preço");
-	while (Preço > 0) {
+	while(Preço > 0) {
 		total = total + Preço;				
 		quantidade++;
 		
@@ -30,4 +30,4 @@ public class Denize01de05A extends Programa {
 
 
 
-
+/
