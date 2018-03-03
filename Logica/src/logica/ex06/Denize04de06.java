@@ -14,8 +14,7 @@ public class Denize04de06 extends Programa {
 		while(!pesquisa.equals("fim")) {
 		}
 		}
-		
-			int salario = leInteiro("Informe um salário");
+		int salario = leInteiro("Informe um salário");
 							
 			
 			
